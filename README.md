@@ -31,6 +31,7 @@ Copied to /home/fakeuser/downloads/fakefile2.mp4
 Backup complete!
 ```
 ### Windows
+```
 python app.py
 Enter a folder path to back up: /home/fakeuser1/
 Enter a folder to store the backup: /home/fakeuser2/
