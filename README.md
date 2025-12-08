@@ -1,6 +1,6 @@
 # Bridgewater's Backup Tool
 
-This is a minimal script to backup your local files automatically.
+This is a minimal script to backup your local files.
 
 ## Requirements
 
